@@ -1,0 +1,18 @@
+一. Core Java
+Object类的方法
+ArrayList & LinkedList
+HashMap & ConcurrentHashMap
+StringBuffer & StringBuilder
+内部类 & 静态内部类
+深拷贝 & 浅拷贝
+序列化/反序列化
+Runtime类
+java不可变类的理解
+Java异常 throwable、Error、Exception、RuntimeException 区别
+
+二. JVM
+内存溢出 & 内存泄漏
+jvm加载class文件的原理机制
+双亲委派模型
+内存分配与回收策略
+垃圾收集
